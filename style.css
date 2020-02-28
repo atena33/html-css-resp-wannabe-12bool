@@ -1,0 +1,24 @@
+img {
+ height: 200px;
+ padding-bottom: 50px;
+}
+
+h1 {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.left, .right, .central {
+   padding-bottom: 50px;
+   padding-right: 50px;
+ }
+
+ .container.grey{
+   background-color: #f9f9f9;
+}
+
+.why img {
+  background-color:#428bca;
+  border-radius:50%;
+  padding:30px
+}
